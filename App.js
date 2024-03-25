@@ -4,7 +4,7 @@ import FormWithFormik from './src/components/FormWithFormik';
 import { NativeBaseProvider } from "native-base";
 
 
-import logo from './assets/logo.png'; 
+import logo from './assets/logohere.jpg'; 
 
 export default function App() {
   return (
